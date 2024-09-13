@@ -1,1 +1,2 @@
 Usuario=vagrant
+model name	: AMD Ryzen 3 2200G with Radeon Vega Graphics
